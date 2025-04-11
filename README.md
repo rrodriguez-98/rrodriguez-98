@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rebecca Rodriguez</h1>
-<h3 align="center">An aspiring software engineer passionate about solving difficult challnges. </h3>
+<h3 align="center">An aspiring software engineer passionate about solving difficult challenges. </h3>
 <br>
 
 - 🔭 I’m currently working on a **Virtual library website of books I have read.**
